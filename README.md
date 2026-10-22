@@ -142,7 +142,7 @@ Huolehdi kokonaisuuden laadusta.<br>
 - [ ] Kaikki projektin tiedostot ovat repositoriossa.
 - [ ] Commit-viestit kuvaavat tehtyjä muutoksia.
 - [ ] Commit-historia näyttää työn etenemisen.
-- [ ] `salesvee` pääsee repositorioon.
+- [ ] `salesvee` ja `MinnaPunk` pääsee repositorioon.
 - [ ] Viimeinen commit on pushattu ennen klo 15.00.
 
 ### Projektin README
